@@ -7,7 +7,7 @@
 <p>Optimist learner.</p>
 <p>Fan of Mobile Games.</p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Khalim021&show_icons=true&theme=radical" />
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=Khalim021&show_icons=true&theme=radical" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalim021&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
 

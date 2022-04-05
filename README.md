@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Khalim</h3>
-<p align="center">I'm Khalimjon Akbarov from Uzbekistan and I am a Web Developer. I really like learning different programming languages and frameworks like React, Vue.js so on. By the way I always dream of doing something that can change the life to the better side. Bening optimist and helping to other and this is my target and that is what i am exactly doing now. There are lots of good and kind persons around the world Yahooo❤️</p>
+<p align="center">I'm Khalimjon Akbarov from Uzbekistan and I am a Web Developer since 2020. I really like learning different programming languages and frameworks like React, Vue.js so on. By the way I always dream of doing something that can change the life to the better side. Bening optimist and helping to other and this is my target and that is what i am exactly doing now. There are lots of good and kind persons around the world Yahooo❤️</p>
 
 <h3>About me</h3>
 <p>22 y.o. Web Developer.</p>
@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 🔭  I’m currently working on something cool 😉<br/>
-🌱  I’m currently learning TypeScript, React<br/>
+🌱  I’m currently learning JavaScript, React<br/>
 💬  Ask me about anything related to Javascript/Python <br/>
 📫  How to reach me: khalimjonakbarov@gmail.com <br/>
 ⚡  Fun fact: I Love Nature 😉<br/>

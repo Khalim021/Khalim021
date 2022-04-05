@@ -1,5 +1,4 @@
 <h3 align="center">Hi 👋, I'm Khalim</h3>
-https://github.com/Khalim021/Khalim021/blob/main/photo_2022-04-05_21-32-02.jpg
 <h5 align="center">I'm Khalimjon Akbarov from Uzbekistan and I am a Web Developer. I really like learning different programming languages and frameworks like React, Vue.js so on. By the way I always dream of doing something that can change the life to the better side, and helps to human beings and so on. This is my target and that is what i am exactly doing now.</h5>
 
 <h3>About me</h3>

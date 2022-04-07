@@ -7,10 +7,10 @@
 <p>Optimist learner.</p>
 <p>Fan of Mobile Games.</p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Khalim021&show_icons=true&theme=radical" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Khalim021&show_icons=true&theme=radical" />
 
 🔭  I’m currently working on something cool 😉<br/>
-🌱  I’m currently learning JavaScript, React<br/>
+🌱  I’m currently learning React<br/>
 💬  Ask me about anything related to Javascript/Python <br/>
 📫  How to reach me: khalimjonakbarov@gmail.com <br/>
 ⚡  Fun fact: I Love Nature 😉<br/>

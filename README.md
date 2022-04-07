@@ -9,8 +9,6 @@
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Khalim021&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalim021&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
-
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning JavaScript, React<br/>
 💬  Ask me about anything related to Javascript/Python <br/>

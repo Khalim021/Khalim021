@@ -2,10 +2,10 @@
 <p align="center">I'm Khalimjon Akbarov from Uzbekistan and I am a Web Developer since 2020. I really like learning different programming languages and frameworks like React, Vue.js so on. By the way I always dream of doing something that can change the life to the better side. Bening optimist and helping to others and this is my target and that is what i am exactly trying to do now. There are lots of good and kind persons around the world Yahooo❤️</p>
 
 <h3>About me</h3>
-<p>22 y.o. Web Developer.</p>
-<p>Studies at MDIST.</p>
-<p>Optimist learner.</p>
-<p>Fan of Mobile Games.</p>
+<span>22 y.o. Web Developer.</span><br/>
+<span>Studies at MDIST.</span><br/>
+<span>Optimist learner.</span><br/>
+<span>Fan of Mobile Games.</span><br/><br/>
 
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning React<br/>

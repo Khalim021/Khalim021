@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Khalim</h3>
-<p align="center">I'm Khalimjon Akbarov from Uzbekistan and I am a Web Developer since 2020. I really like learning different programming languages and frameworks like React, Vue.js so on. By the way I always dream of doing something that can change the life to the better side. Bening optimist and helping to others and this is my target and that is what i am exactly trying to do now. There are lots of good and kind persons around the world Yahooo❤️</p>
+<p align="center">I'm Khalimjon Akbarov from Uzbekistan and I am a Web Developer since 2020. I really like learning different programming languages and frameworks like React, Vue.js so on. By the way I always dream of doing something that can change the life to the better side. Being optimist and helping to others and this is my target and that is what i am exactly trying to do now. There are lots of good and kind persons around the world Yahooo❤️</p>
 
 <h3>About me</h3>
 <div>

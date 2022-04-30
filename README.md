@@ -6,7 +6,7 @@
     <ul>
         <li>22 y.o. Web Developer.</li>
         <li>Studies at MDIST.</li>
-        <li>Optimist learner.</li>
+        <li>Optimist person and learner.</li>
         <li>Fan of Mobile Games.</li>
     </ul>
 </div>

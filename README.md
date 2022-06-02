@@ -6,14 +6,13 @@
     <ul>
         <li>22 y.o. Web Developer.</li>
         <li>Studies at MDIST.</li>
-        <li>Optimist person and learner.</li>
+        <li>Optimist</li>
         <li>Fan of Mobile Games.</li>
     </ul>
 </div>
 
 🔭  I’m currently working on something cool 😉<br/>
 🌱  I’m currently learning React<br/>
-💬  Ask me about anything related to Javascript/Python <br/>
 📫  How to reach me: khalimjonakbarov@gmail.com <br/>
 ⚡  Fun fact: I Love Nature 😉<br/>
 

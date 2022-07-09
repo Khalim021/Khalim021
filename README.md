@@ -12,7 +12,6 @@
 </div>
 
 🔭  I’m currently working on something cool 😉<br/>
-🌱  I’m currently learning React<br/>
 📫  How to reach me: khalimjonakbarov@gmail.com <br/>
 ⚡  Fun fact: I Love Nature 😉<br/>
 
